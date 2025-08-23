@@ -1,0 +1,5 @@
+train: E:\\My projects\\plaue detection(YOLOv8)\\train
+val: E:\\My projects\\plaue detection(YOLOv8)\\val
+
+nc: 1
+names: ["license_plate"]
